@@ -2,8 +2,8 @@
 
 Sci-Fi Movie Transporters:
 
-- [ ] BAT-POD (THE DARK KNIGHT RISES)
-- [ ] TUMBLER (THE DARK KNIGHT RISES)
+- [x] BAT-POD (THE DARK KNIGHT RISES) - Front End Project
+- [x] TUMBLER (THE DARK KNIGHT RISES) - Server Side Rendering Project
 - [ ] BAT-MOBILE (Batman Returns)
 - [ ] THE-BAT (THE DARK KNIGHT RISES)
 - [ ] DELOREAN TIME MACHINE (BACK TO THE FUTURE)
@@ -14,3 +14,5 @@ Sci-Fi Movie Transporters:
 - [ ] V8 INTERCEPTER (MAD MAX: FURY ROAD)
 - [ ] BUMBLEBEE (TRANSFORMERS)
 - [ ] Millennium Falcon (Star Wars)
+- [ ] Hovercraft (Matrix)
+- [ ] APU (Armored Personnel Unit, Matrix)
